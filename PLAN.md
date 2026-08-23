@@ -12,15 +12,15 @@ Progress is archived in [`progress.json`](./progress.json) and shown on the Badg
 | YOLO | 1 | Done — [PR #2](https://github.com/Sagar610/badge-case/pull/2) merged with **no reviews**. |
 | Pull Shark | 2 merged PRs | Actions done (3 merged PRs). Badge may take a little longer to appear than YOLO. Latest: [PR #4](https://github.com/Sagar610/badge-case/pull/4). |
 
-## Track B — Pair (needs a person)
+## Track B — Pair
 
-**Pair Extraordinaire** — one merged PR with:
+Collaborator: [Madhavi-Bhatt](https://github.com/Madhavi-Bhatt)
 
 ```
-Co-authored-by: Their Name <email-linked-to-their-github>
+Co-authored-by: Madhavi Bhatt <madhavibhatt72@gmail.com>
 ```
 
-Ask a friend, classmate, or teammate. Do not create a second account.
+Invited as a write collaborator on this repo. She should accept the GitHub invite on her own account — no password sharing.
 
 ## Track C — Pick one fifth badge
 
