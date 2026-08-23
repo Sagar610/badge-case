@@ -31,7 +31,7 @@ export function parseUsername(input) {
 
   const asUrl = raw.includes("://")
     ? raw
-    : /^github\.com\//i.test(raw)
+    : /^(www\.)?github\.com\//i.test(raw)
       ? `https://${raw}`
       : null;
 
