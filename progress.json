@@ -8,7 +8,7 @@
       "title": "Track A — Solo (doing now)",
       "badges": ["quickdraw", "yolo", "pull-shark"],
       "status": "in_progress",
-      "notes": "On a repo you own. You already have 1 merged PR, so one unreviewed merge can unlock YOLO and Pull Shark together."
+      "notes": "Issue #1 closed within 5 minutes. This pull request is the unreviewed merge for YOLO and the second merged PR for Pull Shark."
     },
     {
       "id": "pair",
@@ -39,5 +39,7 @@
       "notes": "GitHub has not enabled these. Tiers are unknown."
     }
   ],
-  "proof": {}
+  "proof": {
+    "quickdraw": "https://github.com/Sagar610/badge-case/issues/1"
+  }
 }

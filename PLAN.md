@@ -8,7 +8,7 @@ Progress is archived in [`progress.json`](./progress.json) and shown on the Badg
 
 | Badge | Need | Action |
 |---|---|---|
-| Quickdraw | 1 | Open an issue on this repo and close it within 5 minutes. |
+| Quickdraw | 1 | Done — [issue #1](https://github.com/Sagar610/badge-case/issues/1) opened and closed within 5 minutes. |
 | YOLO | 1 | Open a pull request and merge it with **no review**. |
 | Pull Shark | 2 merged PRs | Already have 1 (`advanced-sudoku#1`). The YOLO merge is #2. |
 
