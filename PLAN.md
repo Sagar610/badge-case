@@ -44,3 +44,7 @@ GitHub can take a few minutes. Then check:
 
 1. https://github.com/Sagar610?tab=achievements
 2. Badge Case → Check my badges
+
+## Track F — Pull Shark bronze
+
+Bronze needs **16** merged PRs (default is 2). Sagar610 is opening real PRs on this repo to reach that tier.
