@@ -180,7 +180,7 @@ function renderTracks(earnedMap) {
     <div class="section-head">
       <div>
         <h3>Sagar610 plan tracks</h3>
-        <p class="muted">Goal: ${progress.goal} badges. Track A is executed on GitHub. B–C need you. D is slow. E is unavailable.</p>
+        <p class="muted">Goal: ${progress.goal} badges. Pull Shark bronze needs 16 merged PRs.</p>
       </div>
     </div>
     <div class="track-grid">${cards}</div>
