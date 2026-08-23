@@ -21,8 +21,8 @@
       "id": "fifth",
       "title": "Track C — Fifth badge",
       "badges": ["public-sponsor", "galaxy-brain"],
-      "status": "choose_one",
-      "notes": "Public Sponsor is paid. Galaxy Brain needs 2 accepted Discussion answers from other people."
+      "status": "in_progress",
+      "notes": "Discussions + Q&A enabled on badge-case. Madhavi posts 2 questions; Sagar answers; she marks them as the answer."
     },
     {
       "id": "slow",

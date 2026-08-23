@@ -22,10 +22,13 @@ Co-authored-by: Madhavi Bhatt <madhavibhatt72@gmail.com>
 
 Madhavi-Bhatt accepted the collaborator invite. Pair Extraordinaire is waiting on GitHub to credit the co-authored commits.
 
-## Track C — Pick one fifth badge
+## Track C — Galaxy Brain
 
-- **Public Sponsor** — sponsor anyone at https://github.com/sponsors (lowest public tier).
-- **Galaxy Brain** — 2 answers in GitHub Discussions marked as accepted. Self-answers usually do not count.
+Need **2** answers in a **Q&A** discussion marked as the answer by someone else. Self-answers do not count.
+
+Discussions are on: https://github.com/Sagar610/badge-case/discussions
+
+Madhavi (logged in as Madhavi-Bhatt) posts 2 Q&A questions. Sagar answers. Madhavi clicks **Mark as answer** on each.
 
 ## Track D — Later
 
