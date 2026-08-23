@@ -14,8 +14,8 @@
       "id": "pair",
       "title": "Track B — Pair",
       "badges": ["pair-extraordinaire"],
-      "status": "blocked",
-      "notes": "Needs one real collaborator with a GitHub-linked email. Do not use a second account."
+      "status": "in_progress",
+      "notes": "Paired with Madhavi-Bhatt using Co-authored-by on a merged PR. She should accept the collaborator invite on her own GitHub session."
     },
     {
       "id": "fifth",
