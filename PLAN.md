@@ -10,7 +10,7 @@ Progress is archived in [`progress.json`](./progress.json) and shown on the Badg
 |---|---|---|
 | Quickdraw | 1 | Done — [issue #1](https://github.com/Sagar610/badge-case/issues/1) opened and closed within 5 minutes. |
 | YOLO | 1 | Done — [PR #2](https://github.com/Sagar610/badge-case/pull/2) merged with **no reviews**. |
-| Pull Shark | 2 merged PRs | Done — second merged PR is [badge-case#2](https://github.com/Sagar610/badge-case/pull/2) (first was `advanced-sudoku#1`). |
+| Pull Shark | 2 merged PRs | Actions done (3 merged PRs). Badge may take a little longer to appear than YOLO. Latest: [PR #4](https://github.com/Sagar610/badge-case/pull/4). |
 
 ## Track B — Pair (needs a person)
 

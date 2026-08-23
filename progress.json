@@ -8,7 +8,7 @@
       "title": "Track A — Solo",
       "badges": ["quickdraw", "yolo", "pull-shark"],
       "status": "done",
-      "notes": "Issue #1 closed within 5 minutes. PR #2 merged with no reviews. Author now has 2 merged PRs."
+      "notes": "Quickdraw and YOLO are live on the profile. Pull Shark is waiting on GitHub — 3 merged PRs exist (advanced-sudoku#1, badge-case#2, badge-case#4)."
     },
     {
       "id": "pair",
@@ -42,6 +42,6 @@
   "proof": {
     "quickdraw": "https://github.com/Sagar610/badge-case/issues/1",
     "yolo": "https://github.com/Sagar610/badge-case/pull/2",
-    "pull-shark": "https://github.com/Sagar610/badge-case/pull/2"
+    "pull-shark": "https://github.com/Sagar610/badge-case/pull/4"
   }
 }
