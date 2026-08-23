@@ -5,10 +5,10 @@
   "tracks": [
     {
       "id": "solo",
-      "title": "Track A — Solo (doing now)",
+      "title": "Track A — Solo",
       "badges": ["quickdraw", "yolo", "pull-shark"],
-      "status": "in_progress",
-      "notes": "Issue #1 closed within 5 minutes. This pull request is the unreviewed merge for YOLO and the second merged PR for Pull Shark."
+      "status": "done",
+      "notes": "Issue #1 closed within 5 minutes. PR #2 merged with no reviews. Author now has 2 merged PRs."
     },
     {
       "id": "pair",
@@ -40,6 +40,8 @@
     }
   ],
   "proof": {
-    "quickdraw": "https://github.com/Sagar610/badge-case/issues/1"
+    "quickdraw": "https://github.com/Sagar610/badge-case/issues/1",
+    "yolo": "https://github.com/Sagar610/badge-case/pull/2",
+    "pull-shark": "https://github.com/Sagar610/badge-case/pull/2"
   }
 }
