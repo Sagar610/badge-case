@@ -283,3 +283,5 @@ export const TRACK_STATUS = {
   later: "Later",
   unavailable: "Cannot earn",
 };
+
+export const PULL_SHARK_BRONZE = 16;
