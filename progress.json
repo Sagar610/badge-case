@@ -21,8 +21,8 @@
       "id": "fifth",
       "title": "Track C — Fifth badge",
       "badges": ["public-sponsor", "galaxy-brain"],
-      "status": "in_progress",
-      "notes": "Discussions + Q&A enabled on badge-case. Madhavi posts 2 questions; Sagar answers; she marks them as the answer."
+      "status": "done",
+      "notes": "Galaxy Brain is live. Both React Q&As marked as answered."
     },
     {
       "id": "slow",
