@@ -1,0 +1,43 @@
+{
+  "profile": "Sagar610",
+  "goal": 5,
+  "updated": "2026-08-23",
+  "tracks": [
+    {
+      "id": "solo",
+      "title": "Track A — Solo (doing now)",
+      "badges": ["quickdraw", "yolo", "pull-shark"],
+      "status": "in_progress",
+      "notes": "On a repo you own. You already have 1 merged PR, so one unreviewed merge can unlock YOLO and Pull Shark together."
+    },
+    {
+      "id": "pair",
+      "title": "Track B — Pair",
+      "badges": ["pair-extraordinaire"],
+      "status": "blocked",
+      "notes": "Needs one real collaborator with a GitHub-linked email. Do not use a second account."
+    },
+    {
+      "id": "fifth",
+      "title": "Track C — Fifth badge",
+      "badges": ["public-sponsor", "galaxy-brain"],
+      "status": "choose_one",
+      "notes": "Public Sponsor is paid. Galaxy Brain needs 2 accepted Discussion answers from other people."
+    },
+    {
+      "id": "slow",
+      "title": "Track D — Slow",
+      "badges": ["starstruck"],
+      "status": "later",
+      "notes": "A repo you created must reach 16 stars. Do not buy stars."
+    },
+    {
+      "id": "unavailable",
+      "title": "Track E — Not available",
+      "badges": ["heart-on-your-sleeve", "open-sourcerer"],
+      "status": "unavailable",
+      "notes": "GitHub has not enabled these. Tiers are unknown."
+    }
+  ],
+  "proof": {}
+}

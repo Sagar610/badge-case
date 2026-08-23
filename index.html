@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Badge Case — GitHub achievements</title>
+    <meta
+      name="description"
+      content="Paste a GitHub profile to see every achievement badge and a legitimate plan to earn your first five."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,620&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏅</text></svg>" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="top">
+      <a class="mark" href="/">
+        <span class="mark-seal" aria-hidden="true"></span>
+        Badge Case
+      </a>
+      <p class="top-note">Official GitHub profile achievements, not README shields.</p>
+    </header>
+
+    <main>
+      <section class="hero">
+        <p class="eyebrow">Profile medals</p>
+        <h1>Paste a GitHub profile.<br />See every badge you have.</h1>
+        <p class="lede">
+          Your list has 9 GitHub achievements. Two are dormant. The five below
+          are enough: Quickdraw, YOLO, Pull Shark, Pair Extraordinaire, and
+          Public Sponsor (or Galaxy Brain if you do not want to pay).
+        </p>
+
+        <form id="lookup" class="lookup" autocomplete="off">
+          <label class="sr-only" for="profile">GitHub profile</label>
+          <input
+            id="profile"
+            name="profile"
+            type="text"
+            spellcheck="false"
+            placeholder="github.com/username  or  username"
+            value="Sagar610"
+          />
+          <button type="submit" id="go">Check my badges</button>
+        </form>
+
+        <div class="examples">
+          <button type="button" data-user="Sagar610">Sagar610</button>
+          <button type="button" data-user="torvalds">torvalds</button>
+          <button type="button" data-user="octocat">octocat</button>
+        </div>
+      </section>
+
+      <section id="tracks" class="roster-wrap"></section>
+      <section id="roster" class="roster-wrap"></section>
+
+      <p id="status" class="status" hidden></p>
+      <section id="results" hidden></section>
+    </main>
+
+    <footer class="foot">
+      Achievements come from the public GitHub profile. Hidden badges will not appear.
+      Earn them on real work — extra accounts to farm medals break GitHub’s terms.
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
