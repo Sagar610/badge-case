@@ -25,6 +25,7 @@ const cases = [
   ["https://github.com/octocat", "octocat"],
   ["github.com/octocat/", "octocat"],
   ["https://github.com/octocat?tab=achievements", "octocat"],
+  ["https://www.github.com/octocat", "octocat"],
   ["https://gitlab.com/octocat", null],
   ["settings", null],
 ];
