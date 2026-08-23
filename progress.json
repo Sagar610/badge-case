@@ -5,36 +5,50 @@
   "tracks": [
     {
       "id": "solo",
-      "title": "Track A — Solo",
-      "badges": ["quickdraw", "yolo", "pull-shark"],
+      "title": "Track A \u2014 Solo",
+      "badges": [
+        "quickdraw",
+        "yolo",
+        "pull-shark"
+      ],
       "status": "done",
-      "notes": "Quickdraw and YOLO are live on the profile. Pull Shark is waiting on GitHub — 3 merged PRs exist (advanced-sudoku#1, badge-case#2, badge-case#4)."
+      "notes": "Quickdraw and YOLO are live on the profile. Pull Shark is waiting on GitHub \u2014 3 merged PRs exist (advanced-sudoku#1, badge-case#2, badge-case#4)."
     },
     {
       "id": "pair",
-      "title": "Track B — Pair",
-      "badges": ["pair-extraordinaire"],
+      "title": "Track B \u2014 Pair",
+      "badges": [
+        "pair-extraordinaire"
+      ],
       "status": "in_progress",
       "notes": "Madhavi-Bhatt accepted the invite. Co-authored PRs: #5 and follow-up. Waiting for GitHub to award Pair Extraordinaire."
     },
     {
       "id": "fifth",
-      "title": "Track C — Fifth badge",
-      "badges": ["public-sponsor", "galaxy-brain"],
+      "title": "Track C \u2014 Fifth badge",
+      "badges": [
+        "public-sponsor",
+        "galaxy-brain"
+      ],
       "status": "done",
       "notes": "Galaxy Brain is live. Both React Q&As marked as answered."
     },
     {
       "id": "slow",
-      "title": "Track D — Slow",
-      "badges": ["starstruck"],
+      "title": "Track D \u2014 Slow",
+      "badges": [
+        "starstruck"
+      ],
       "status": "later",
       "notes": "A repo you created must reach 16 stars. Do not buy stars."
     },
     {
       "id": "unavailable",
-      "title": "Track E — Not available",
-      "badges": ["heart-on-your-sleeve", "open-sourcerer"],
+      "title": "Track E \u2014 Not available",
+      "badges": [
+        "heart-on-your-sleeve",
+        "open-sourcerer"
+      ],
       "status": "unavailable",
       "notes": "GitHub has not enabled these. Tiers are unknown."
     }
@@ -43,6 +57,11 @@
     "quickdraw": "https://github.com/Sagar610/badge-case/issues/1",
     "yolo": "https://github.com/Sagar610/badge-case/pull/2",
     "pull-shark": "https://github.com/Sagar610/badge-case/pull/4",
-    "pair-extraordinaire": "https://github.com/Sagar610/badge-case/pull/5"
+    "pair-extraordinaire": "https://github.com/Sagar610/badge-case/pull/5",
+    "galaxy-brain": "https://github.com/Sagar610/badge-case/discussions/7"
+  },
+  "pullShark": {
+    "targetTier": "bronze",
+    "mergedNeeded": 16
   }
 }
