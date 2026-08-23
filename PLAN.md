@@ -20,7 +20,7 @@ Collaborator: [Madhavi-Bhatt](https://github.com/Madhavi-Bhatt)
 Co-authored-by: Madhavi Bhatt <madhavibhatt72@gmail.com>
 ```
 
-Invited as a write collaborator on this repo. She should accept the GitHub invite on her own account — no password sharing.
+Madhavi-Bhatt accepted the collaborator invite. Pair Extraordinaire is waiting on GitHub to credit the co-authored commits.
 
 ## Track C — Pick one fifth badge
 
