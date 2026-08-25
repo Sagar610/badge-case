@@ -48,3 +48,5 @@ GitHub can take a few minutes. Then check:
 ## Track F — Pull Shark bronze
 
 Bronze needs **16** merged PRs (default is 2). Sagar610 is opening real PRs on this repo to reach that tier.
+
+Pair retry used Madhavi noreply email after she was already a collaborator.
